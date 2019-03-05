@@ -1,2 +1,3 @@
 # randomKmin-max
-Find the k smallest / highest of an array with a uniform probability between elements of same value. 
+
+The goal of this project is to have an efficient (single scan) algorithm (and C implementation) to find the k smallest / highest value of an array and their position. Knowing that position with similar value needs to have the same probability to be selected.
